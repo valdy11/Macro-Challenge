@@ -1,0 +1,113 @@
+body {
+  overflow: auto;
+}
+
+/* .bg {
+  display: flex;
+} */
+
+.lb {
+  background-color: white;
+  background-size: cover;
+    background-position: center;
+    height: 220%;
+    display: flex;
+    align-content: stretch;
+}
+
+.logo1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 800px;
+    top: 40px;
+  }
+
+.jdl {
+  /* margin-top: 80px; */
+  font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 180px;
+    text-align: center;
+    color: #000000;
+}
+
+  .image-17 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 880px;
+    top: 287px;
+    padding-left: 10px;
+  }
+
+  .visimisi {
+    width: 200px;
+    height: 42px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 35px;
+    line-height: 42px;
+    /* or 42px */
+    display: flex;
+    align-items: center;
+    margin-top: -200px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+  
+    color: #000000;
+  }
+
+  .footers {
+    width: 95%;
+    height: 350px;
+    margin-left: 20px;
+    margin-top: -56px;
+  }
+
+  .button1 {
+    width: 120px;
+    height: 40px;
+    margin-left: 150px;
+    margin-top: -68px;
+  
+    background: #cf3200;
+    border-radius: 40px;
+  
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+
+  .sosmed {
+    position: relative;
+    left: -80px;
+    margin-top: 40px;
+    justify-content: space-between;
+  }
+
+  .IG {
+    margin-right: 10px;
+  }
+  .TW {
+    margin-right: 10px;
+  }
+  .YT {
+    margin-right: 10px;
+  }
+
+  .contact {
+    width: 120px;
+    height: 40px;
+    margin-left: 440px;
+    margin-top: -10px;
+  
+    background: #cf3200;
+    border-radius: 40px;
+  
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+

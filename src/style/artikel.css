@@ -1,0 +1,200 @@
+body {
+    overflow: auto;
+}
+
+.latarbelakang {
+  background-color: white;
+  background-size: cover;
+    background-position: center;
+    height: 380%;
+}
+
+.judulartikel {
+  position: absolute;
+  width: 650px;
+  height: 105px;
+  left: 100px;
+  top: 250px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 4rem;
+  text-align: center;
+  margin-left: 200px;
+  margin-top: -150px;
+}
+
+.artikel {
+  padding: 100px;
+  margin-top: 90px;
+  position: relative;
+  width: 100px;
+  box-sizing: border-box;
+}
+
+.carousel-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.scroll {
+  margin-left: 180px;
+  text-align: center;
+  width: 900px;
+  justify-content: space-between;
+}
+
+.alatbahan {
+  position: absolute;
+  width: 400px;
+  height: 42px;
+  left: 50px;
+  top: 903px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 140.62%;
+  /* or 42px */
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  margin-top: 50px;
+
+  color: #000000;
+}
+
+.cardalat {
+  font-family: 'Inter', sans-serif;
+  background-position: #59981a;
+  height: 200px;
+  margin-top: 100px;
+}
+
+.grup {
+  width: 1100px;
+}
+
+.alat {
+  text-align: center;
+  margin-right: 200px;
+  margin-left: 30px;
+  width: 100px;
+  margin-top: -50px;
+}
+
+.langkah-langkah {
+  position: absolute;
+  width: 400px;
+  height: 42px;
+  left: 50px;
+  top: 1300px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 140.62%;
+  /* or 42px */
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  margin-top: 50px;
+
+  color: #000000;
+}
+
+.langkah {
+  margin-top: -230px;
+  width: 1120px;
+  height: 400px;
+  left: 300px;
+  top: 400px;
+  margin-left: -300px;
+  background: #fffdfd;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+.langkah-1 {
+  margin-top: -250px;
+  width: 1120px;
+  height: 400px;
+  left: 300px;
+  top: 700px;
+  margin-left: -300px;
+  background: #fffdfd;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.langkah-2 {
+  margin-top: 50px;
+  width: 1120px;
+  height: 400px;
+  left: 300px;
+  top: 700px;
+  margin-left: -300px;
+  background: #fffdfd;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
+
+.langkah1 {
+  width: 400px;
+  margin-left: -150px;
+  margin-top: -50px;
+}
+.langkah2 {
+  width: 400px;
+  margin-left: -150px;
+  margin-top: -50px;
+}
+.langkah3 {
+  width: 400px;
+  margin-left: -150px;
+  margin-top: -50px;
+}
+
+.step {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 70px;
+  margin-left: 100px;
+}
+
+.step2 {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 70px;
+  margin-left: 100px;
+  margin-bottom: 0px;
+}
+.step3 {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 70px;
+  margin-left: 100px;
+  margin-bottom: 0px;
+}
+
+.step-ket {
+  padding-left: 800px;
+  padding-top: -150px;
+  margin-top: -150px;
+  text-align: justify;
+  width: 500px;
+  margin-left: 500px;
+  margin-bottom: 50px;
+}
+.judulgrup {
+  margin-top: -50px;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.footer {
+  width: 95%;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 800px;
+}
